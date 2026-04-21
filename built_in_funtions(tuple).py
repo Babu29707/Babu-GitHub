@@ -1,0 +1,7 @@
+tuple=tuple(range(10))
+print(tuple)
+print(tuple.count(1))
+print(len(tuple))
+print(max(tuple))
+print(min(tuple))
+print(sum(tuple))
