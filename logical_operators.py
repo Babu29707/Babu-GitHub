@@ -1,0 +1,5 @@
+a=int(input("Enter First Number:"))
+b=int(input("Enter second Number:"))
+print("and Operator:",a<b and a>b)
+print("or Operator:", a<=b or a>=b)
+print("not operator:",not b)

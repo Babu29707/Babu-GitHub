@@ -1,0 +1,7 @@
+a=int(input("Enter first number:"))
+b=int(input("Enter second number:"))
+print("Less Than Operator:",a<b)
+print("Greater Than Operator:",a>b)
+print("Equal Operator:",a==b)
+print("Less Than Or Equal Operator:",a<=b)
+print("Greater Than  Or Equal Operator:",a>=b)
